@@ -1,0 +1,32 @@
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\ApplicationInsights.config
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\csc.exe
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\vbc.exe
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Css JumpStart.dll.config
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Css JumpStart.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Css JumpStart.pdb
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.Web.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.Web.xml
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\obj\Debug\Css JumpStart.dll
+C:\Users\jonathan.orozco\Documents\CSS Jump Start\Css JumpStart.Solution\Css JumpStart\obj\Debug\Css JumpStart.pdb

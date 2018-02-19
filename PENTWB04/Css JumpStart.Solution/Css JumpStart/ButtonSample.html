@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<style>
+		html {
+			font-size:16px;
+			font-family: Verdana;
+		}
+		label {
+			float:left;
+			width:75px;
+		}
+		div {
+			margin-bottom:.4em;
+		}
+		#banner {
+			text-align:center;
+			font-size:2em;
+			background-color:cadetblue;
+			color:white;
+			font-weight:bold;
+		}
+		#demoButton {
+			font-weight: bold;
+			color: white;
+			background-color: blue;
+			height: 1.25em;
+			width: 6em;
+			text-align: center;
+			padding-top: .3em;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			-webkit-user-select: none;
+			user-select: none;
+			cursor:crosshair;
+
+			transition-duration: 500ms;
+			transition-property:transform;
+			transition-timing-function:ease;
+		}
+
+		.shrink {
+			transform:scale(.5,.5);
+		}
+		.default {
+			transform:none;
+		}
+
+		@media (max-width:500px) {
+			.shrink, .default {
+				transform:none;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div id="banner">
+		Please register
+	</div>
+	<form>
+		<div>
+			<label for="name">Name:</label>
+			<input type="text" name="name" value="" />
+		</div>
+		<div>
+			<label for="name">Email:</label>
+			<input type="email" name="name" value="" />
+		</div>
+		<div>
+			<div id="demoButton" class="default">
+				Submit!
+			</div>
+		</div>
+	</form>
+
+
+    <script src="scripts/jquery-3.3.1.min.js"></script>
+	<script>
+		$(function () {
+			$('#demoButton').mousedown(function () {
+				$(this).removeClass('default');
+				$(this).addClass('shrink');
+			});
+			$('#demoButton').mouseup(function () {
+				$(this).removeClass('shrink');
+				$(this).addClass('default');
+			});
+		});
+	</script>
+</body>
+</html>

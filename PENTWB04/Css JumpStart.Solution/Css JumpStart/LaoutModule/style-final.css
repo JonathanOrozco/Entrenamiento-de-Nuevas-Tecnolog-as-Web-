@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+#header {
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    box-sizing: border-box;
+    background-color: #000000;
+    z-index: 10;
+    padding: 20px;
+    text-align: center;
+}
+
+    #header li {
+        display: inline;
+        padding: 0 20px 0 20px;
+    }
+
+    #header a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+        #header a:hover {
+            color: #99ccee;
+        }
+
+#hero-block {
+    position: relative;
+    width: 100%;
+    overflow: auto;
+    padding-top: 70px;
+    background-color: #99ccee;
+}
+
+#banner-text {
+    text-align: center;
+    font-size: 3em;
+}
+
+#side-text {
+    display: inline-block;
+    position: relative;
+    margin-left: 10%;
+    width: 400px;
+    font-size: 1.5em;
+    vertical-align: top;
+}
+
+#css-image {
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    width: 300px;
+    height: 300px;
+    vertical-align: top;
+}
+
+#modules-block {
+    text-align: center;
+}
+
+.box {
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+    border: solid #99ccee 3px;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.box-label {
+    background-color: #99ccee;
+    text-align: center;
+    margin-top: 0;
+}
+
+
+
+@media screen and (max-width: 700px) {
+    #css-image {
+        display: none;
+    }
+
+    #banner-text {
+        text-align: center;
+        font-size: 100%;
+    }
+
+    #side-text {
+        display: none;
+    }
+
+    #header li:not(:first-child) {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 960px) {
+    #css-image {
+        width: 150px;
+        height: 150px;
+    }
+
+    #banner-text {
+        text-align: center;
+        font-size: 2em;
+    }
+
+    #side-text {
+        font-size: 1em;
+    }
+}

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<style>
+		#resize-me {
+			height: 100px;
+			width: 100px;
+			background-color: blue;
+		}
+
+		@media (min-width:500px) {
+			#resize-me {
+				transform: translate(400px, 400px) scale(2, 2);
+			}
+		}
+	</style>
+</head>
+<body>
+	<div id="resize-me"></div>
+</body>
+</html>
